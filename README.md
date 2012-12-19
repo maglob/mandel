@@ -1,0 +1,4 @@
+mandel
+======
+
+ASCII Mandelbrot zoom
